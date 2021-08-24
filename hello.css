@@ -1,7 +1,14 @@
 body {
-    color: red;
+    color: rgb(21, 255, 0);
     padding: 10%;
     margin: 10px;
     background-color: black;
     font-size: 14px;
+}
+h2 {
+    color: blue;
+}
+h1 {
+    color: blueviolet;
+    background-color: white;
 }
